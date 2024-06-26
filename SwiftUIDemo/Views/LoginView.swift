@@ -48,7 +48,7 @@ struct LoginView: View {
                 }
             }) {
                 Text("Login")
-                    .frame(width: UIScreen.main.bounds.width * 0.7, height: 40)
+                    .frame(width: UIScreen.main.bounds.width * 0.7, height: 50)
                     .background(Color.blue)
                     .foregroundColor(.white)
                     .cornerRadius(8)
